@@ -14,7 +14,7 @@ AutoClock.EmailSender can send an email when when plugins failed to clock-in.
 
 Edit ``config.txt`` in the base directory.
 
-```json
+```
 {
     // the mail server of the mail-sender
     mailServer: "",
